@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="devops-banner.png" width="100%" alt="Mohd Alfaiz - DevOps Engineer" />
+  <img src="./DevOps%20Engineer%20Neon%20Mountain%20Banner.png" width="100%" alt="Mohd Alfaiz - DevOps Engineer" />
 </p>
 
 
