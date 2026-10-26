@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="devops-banner.png" width="100%" alt="Mohd Alfaiz - DevOps Engineer" />
+</p>
+
+
 # Hi, I'm Alfaiz 👋
 
 ### DevOps Engineer | Cloud Infrastructure | Automation
