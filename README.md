@@ -40,3 +40,18 @@ I work with cloud technologies and DevOps tools to build reliable, secure, and s
 ## 📫 Connect With Me
 - GitHub: [@alfaizmohd](https://github.com/alfaizmohd)
 - LinkedIn: Add your LinkedIn URL here
+
+  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfaizmohd&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaizmohd&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alfaizmohd&theme=tokyonight&hide_border=true" />
+</p>
+
